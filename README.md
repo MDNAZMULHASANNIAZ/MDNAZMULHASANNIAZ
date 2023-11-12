@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+MD-NAZMUL-HASAN-NIAZ+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+MD-NAZMUL-HASAN-NIAZ+🥀;Today+I+Will+Tell+You+😇;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friend+🤙+🥰;Love+From+Bangladesh🇧🇩+support+pabo+to)](https://git.io/typing-svg)
 _____________𝑵𝑨𝑴𝑬__MD. NAZMUL HASAN NIAZ_____
 ________𝑭𝑹𝑶𝑴__𝑩𝑨𝑵𝑮𝑳𝑨𝑫𝑬𝑯_
-________𝑵𝑼𝑴𝑩𝑬𝑹 HIDDEN_
+________𝑵𝑼𝑴𝑩𝑬𝑹 𝙃𝙄𝘿𝘿𝙀𝙉_
 _________
 ________𝑾𝑶𝑹𝑲__𝑷𝒀𝑻𝑯𝑶𝑵__
 ________𝐂𝐘𝐁𝐄𝐑 𝐄𝐗𝐄𝐂𝐔𝐓𝐈𝐕𝐄 𝐓𝐄𝐀𝐌_
