@@ -9,7 +9,7 @@ ________𝑭𝑹𝑶𝑴__𝑩𝑨𝑵𝑮𝑳𝑨𝑫𝑬𝑯_
 ________𝑵𝑼𝑴𝑩𝑬𝑹 HIDDEN_
 _________
 ________𝑾𝑶𝑹𝑲__𝑷𝒀𝑻𝑯𝑶𝑵__
-________CYBER EXECUTIVE TEAM_
+________𝐂𝐘𝐁𝐄𝐑 𝐄𝐗𝐄𝐂𝐔𝐓𝐈𝐕𝐄 𝐓𝐄𝐀𝐌_
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
 </h3>
@@ -24,7 +24,7 @@ ___🦋(MD. NAZMUL HASAN NIAZ)🦋___
 ✏️__)
 <h1 align="center">Hi 👋, I'm MD. NAZMUL HASAN NIAZ
 </h1>
-<h3 align="center">A passionate Software Engineer from 𝑩𝑨𝑵𝑮𝑳𝑨𝑫𝑬𝑺 𝑬𝑯𝑪 MD. NAZMUL HASAN NIAZ
+<h3 align="center">A passionate Software Engineer from 𝑩𝑨𝑵𝑮𝑳𝑨𝑫𝑬𝑺 𝐂𝐄𝐓 MD. NAZMUL HASAN NIAZ
  </h3>
 ___🦋(MD. NAZMUL HASAN NIAZ)🦋___
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -33,7 +33,7 @@ ___🦋(MD. NAZMUL HASAN NIAZ)🦋___
 -pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="MD. NAZMUL HASAN NIAZ
 -pmishra" /> </p>
 
-- 👨‍💻 All of my Cyber Executive Team are available at [https://www.facebook.com/cyberexecutiveteam](https://www.facebook.com/groups/cyberexecutiveteam)
+- 👨‍💻 All of my 𝐂𝐘𝐁𝐄𝐑 𝐄𝐗𝐄𝐂𝐔𝐓𝐈𝐕𝐄 𝐓𝐄𝐀𝐌 are available at [https://www.facebook.com/cyberexecutiveteam](https://www.facebook.com/groups/cyberexecutiveteam)
 ___🦋(MD. NAZMUL HASAN NIAZ)🦋___
 - ⚡ Fun fact **I am funny😅**
 
@@ -137,7 +137,7 @@ ___🦋(MD. NAZMUL HASAN NIAZ)🦋___
 
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+CYBER EXECUTIVE TEAM+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸??'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+CYBER EXECUTIVE TEAM+🥀;Today+I+Will+Tell+You+😇;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friend+🤙+🥰;Love+From+Bangladesh🇧🇩+support+pabo+to)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+𝐂𝐘𝐁𝐄𝐑 𝐄𝐗𝐄𝐂𝐔𝐓𝐈𝐕𝐄 𝐓𝐄𝐀𝐌+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸??'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+𝐂𝐘𝐁𝐄𝐑 𝐄𝐗𝐄𝐂𝐔𝐓𝐈𝐕𝐄 𝐓𝐄𝐀𝐌+🥀;Today+I+Will+Tell+You+😇;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friend+🤙+🥰;Love+From+Bangladesh🇧🇩+support+pabo+to)](https://git.io/typing-svg)
 <img src="https://img.shields.io/badge/Python-282C34?logo=python" alt="Python logo" title="Python" height="25" />
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
